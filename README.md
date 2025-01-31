@@ -76,8 +76,11 @@ A modern digital tender management system is necessary to streamline workflows, 
 + **Frontend**
   
 ○ React(Vite)
+
 ○ Redux Toolkit for State Management
+
 ○ Headless UI
+
 ○ Tailwind CSS
 
 + **Backend**
