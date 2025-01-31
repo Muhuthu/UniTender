@@ -74,12 +74,17 @@ A modern digital tender management system is necessary to streamline workflows, 
 
 ## Technologies Used:
 + **Frontend**
-      ○ React(Vite)
-      ○ Redux Toolkit for State Management
-      ○ Headless UI
-      ○ Tailwind CSS
+  
+○ React(Vite)
+○ Redux Toolkit for State Management
+○ Headless UI
+○ Tailwind CSS
+
 + **Backend**
-      ○ Node.js with Express.js
+  
+○ Node.js with Express.js
+
 + **Database**
-      ○ MongoDB for efficient and scalable data storage
+  
+○ MongoDB for efficient and scalable data storage
       
